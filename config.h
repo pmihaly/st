@@ -8,7 +8,7 @@
  */
 static char *font = "Iosevka Term:pixelsize=17:antialias=true:autohint=true";
 static char *font2[] = {"JoyPixels:pixelsize=17:antialias=true:autohint=true"};
-static int borderpx = 2;
+static int borderpx = 7;
 
 
 /*
