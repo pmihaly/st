@@ -6,7 +6,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Iosevka Term:pixelsize=17:antialias=true:autohint=true";
+static char *font = "Iosevka:pixelsize=17:antialias=true:autohint=true";
 static char *font2[] = {"JoyPixels:pixelsize=17:antialias=true:autohint=true"};
 static int borderpx = 7;
 
